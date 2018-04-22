@@ -123,6 +123,6 @@ public class CompteBancari {
         System.out.println("SAludo2 A BRANCA MASTER -By VICTOR CAÑERO JIMENEZ");
     }
     public void saludo(){
-        System.out.println("Saludos! - By VICTOR CAÑERO JIMENEZ");
+        System.out.println("Saludos! - By Cristian Torres");
     }
 }
